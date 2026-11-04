@@ -62,7 +62,7 @@ window.CONFIG = {
   pix: {
     ativo: true,
     chave: "21997521459",
-    posicao: {"left":19.662622928314697,"top":69.06330158574636,"width":60.88817891373802,"height":8.084926959303544}
+    posicao: {"left":20.071577975239617,"top":74.81702824640608,"width":59.86581469648562,"height":6.128650149422873}
   },
 
   // ----- TEXTOS DOS BOTÕES -----------------------------------------------
@@ -89,7 +89,7 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":16.838980755790736,"top":86.01656897266648,"width":65.22364217252397,"height":7.339699057703945} },
+    presentes: { mostrarTexto:false, posicao: {"left":17.45240552615815,"top":87.85776396234046,"width":65.42811189596645,"height":6.188951091718929} },
     dresscode: { mostrarTexto:false, posicao: {"left":20.05784307607827,"top":88.95685199949395,"width":60.69011456669329,"height":6.34522899903838} },
     manual: { mostrarTexto:false, posicao: {"left":16.990734824281148,"top":85.96489806944716,"width":66.21085949980032,"height":7.611051103158632} }
   },
